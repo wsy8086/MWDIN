@@ -45,7 +45,7 @@ Please refer to the experimental setup of the paper for training details.
 
 ### 3. Source
 
-The pretrained weight is here. (https://pan.baidu.com/s/1aE-uStecK1E5daRSSH0rGw ) (code:ecyk)
+The pretrained weight is here. (https://pan.baidu.com/s/1aE-uStecK1E5daRSSH0rGw ) (code:ecyk)  (https://drive.google.com/file/d/12Xi2oD4RvCiYjKoMpHAatvyAvTS0vwWJ/view?usp=sharing)
 
 Visual results for the x4 are also included!
 
