@@ -49,4 +49,16 @@ The pretrained weight is here. (https://pan.baidu.com/s/1aE-uStecK1E5daRSSH0rGw 
 
 Visual results for the x4 are also included!
 
+## 4. pray: Citation
+If this work is helpful for you, please consider citing:
 
+```
+@article{wang2024efficient,
+  title={Efficient image super resolution via Mixed Window and Dimension Interaction},
+  author={Wang, Shouyi and Liu, Gang and Liu, Xiao and Liao, Xiangyu and Ren, Chao},
+  journal={Neurocomputing},
+  pages={129211},
+  year={2024},
+  publisher={Elsevier}
+}
+```
